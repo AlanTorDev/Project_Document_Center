@@ -1,0 +1,712 @@
+
+> personal-knowledge-platform@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3001
+
+   ▲ Next.js 15.5.29
+   - Local:        http://127.0.0.1:3001
+   - Network:      http://127.0.0.1:3001
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.5s
+ ✓ Compiled /middleware in 459ms (171 modules)
+ ○ Compiling /app ...
+ ✓ Compiled /app in 2.7s (847 modules)
+ HEAD /app 200 in 3480ms
+ HEAD /app 200 in 72ms
+ GET /app 200 in 1665ms
+ ○ Compiling /app/doc/[id] ...
+ ✓ Compiled /app/doc/[id] in 1310ms (1168 modules)
+[image-audit:open] 62d9e692-ac5e-4087-8a78-d6bc2fbb768f { imageNodes: 1, paths: 1, sources: 1 }
+[image-audit:open] 62d9e692-ac5e-4087-8a78-d6bc2fbb768f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/62d9e692-ac5e-4087-8a78-d6bc2fbb768f 200 in 4162ms
+ GET /app/doc/62d9e692-ac5e-4087-8a78-d6bc2fbb768f 200 in 728ms
+ ✓ Compiled /app/assets in 403ms (1160 modules)
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F62d9e692-ac5e-4087-8a78-d6bc2fbb768f%2F9bd0c1dc-81a3-4c57-9151-7f89c787bb1b.jpg 200 in 2020ms
+ GET /app 200 in 1051ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 679ms
+ POST /app 303 in 1643ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 2282ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 2072ms
+[image-audit:save] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 } { imageNodes: 2, paths: 2, sources: 2 }
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1551ms
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 956ms
+ GET /app 200 in 783ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 808ms
+ GET /app 200 in 864ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1566ms
+ GET /app 200 in 752ms
+ POST /app 200 in 1625ms
+ GET /app?view=favorites 200 in 729ms
+ GET /app?view=all 200 in 1093ms
+ ✓ Compiled in 773ms (1168 modules)
+ POST /app?view=all 200 in 1770ms
+ GET /app?view=archive 200 in 741ms
+ GET /app?view=all 200 in 924ms
+ ✓ Compiled in 420ms (1168 modules)
+ ✓ Compiled in 398ms (1168 modules)
+ GET /app?view=all 200 in 1578ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 751ms
+ GET /app?folder=0ce470dd-8835-4e13-9588-ddab6b4990a2 200 in 718ms
+ GET /app?view=all 200 in 831ms
+ ✓ Compiled in 900ms (1168 modules)
+ GET /app?view=all 200 in 292ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 911ms
+ GET /app?folder=0ce470dd-8835-4e13-9588-ddab6b4990a2 200 in 744ms
+ GET /app?view=all 200 in 834ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1017ms
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 643ms
+ ✓ Compiled /app/assets in 498ms (761 modules)
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 1391ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 1415ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1314ms
+ GET /app 200 in 888ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 755ms
+ ✓ Compiled in 606ms (1174 modules)
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 247ms
+ ✓ Compiled in 526ms (1168 modules)
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 608ms
+ ✓ Compiled in 788ms (1168 modules)
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 347ms
+ POST /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 2540ms
+ GET /app?folder=07069904-6931-4909-b31e-42967b3ce673 200 in 757ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 747ms
+ GET /app?folder=07069904-6931-4909-b31e-42967b3ce673 200 in 855ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 873ms
+ ✓ Compiled in 904ms (1168 modules)
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 243ms
+ POST /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 2352ms
+ POST /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 1443ms
+ GET /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 814ms
+ GET /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 830ms
+ ✓ Compiled in 270ms (413 modules)
+ GET /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 93ms
+ ✓ Compiled in 191ms (413 modules)
+ POST /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 2216ms
+ GET /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 97ms
+ ✓ Compiled in 870ms (1165 modules)
+ GET /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 264ms
+ POST /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 2499ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 1124ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 1115ms
+ POST /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 1308ms
+ ⨯ ./src/features/documents/folder-actions-menu.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from D:\Workspace\Projects\project_documents_hmt\src\features\documents\folder-actions-menu.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./src/features/documents/folder-actions-menu.tsx
+./src/app/app/page.tsx
+ ○ Compiling /_error ...
+ ⨯ ./src/features/documents/folder-actions-menu.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from D:\Workspace\Projects\project_documents_hmt\src\features\documents\folder-actions-menu.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./src/features/documents/folder-actions-menu.tsx
+./src/app/app/page.tsx
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 500 in 5297ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 500 in 49ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 500 in 47ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 500 in 62ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled /_error in 1728ms (1536 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 2942ms
+ ✓ Compiled in 297ms (571 modules)
+ ✓ Compiled in 242ms (571 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 112ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 96ms
+ ✓ Compiled in 224ms (571 modules)
+ ✓ Compiled in 224ms (571 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 745ms
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 205ms
+ ✓ Compiled in 935ms (1525 modules)
+ ⨯ ReferenceError: FolderActionsMenu is not defined
+    at eval (src\app\app\page.tsx:95:12)
+    at Array.map (<anonymous>)
+    at PrivateHomePage (src\app\app\page.tsx:92:80)
+  93 |         <div className="flex items-center gap-1">
+  94 |           <Link href={`/app?folder=${folder.id}`} aria-current={folder.id === selectedFolder?.id ? "page" : undefined} style={{ paddingLeft: `${8 + depth * 14}px` }} title={folder.name} className={`flex min-w-0 flex-1 items-center gap-2 truncate rounded-lg py-2 pr-2 text-sm ${folder.id === selectedFolder?.id ? "bg-indigo-50 font-medium text-indigo-700" : "text-slate-600 hover:bg-slate-50"}`}><Folder size={15} className="shrink-0 text-slate-400"/><span className="truncate">{folder.name}</span></Link>
+> 95 |           <FolderActionsMenu folder={folder}/>
+     |            ^
+  96 |         </div>
+  97 |       </div>)}</div>
+  98 |       <nav aria-label="Documents" className="mt-6 space-y-1"> {
+  digest: '1529382583'
+}
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 321ms
+ ✓ Compiled in 654ms (1525 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 303ms (566 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 336ms (566 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ ReferenceError: FolderActionsMenu is not defined
+    at eval (src\app\app\page.tsx:117:12)
+    at Array.map (<anonymous>)
+    at PrivateHomePage (src\app\app\page.tsx:114:80)
+  115 |         <div className="flex items-center gap-1">
+  116 |           <Link href={`/app?folder=${folder.id}`} aria-current={folder.id === selectedFolder?.id ? "page" : undefined} style={{ paddingLeft: `${8 + depth * 14}px` }} title={folder.name} className={`flex min-w-0 flex-1 items-center gap-2 truncate rounded-lg py-2 pr-2 text-sm ${folder.id === selectedFolder?.id ? "bg-indigo-50 font-medium text-indigo-700" : "text-slate-600 hover:bg-slate-50"}`}><Folder size={15} className="shrink-0 text-slate-400"/><span className="truncate">{folder.name}</span></Link>
+> 117 |           <FolderActionsMenu folder={folder}/>
+      |            ^
+  118 |         </div>
+  119 |       </div>)}</div>
+  120 |       <nav aria-label="Documents" className="mt-6 space-y-1"> {
+  digest: '1432319190'
+}
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 1294ms
+ ✓ Compiled in 1851ms (1548 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 1438ms
+ ✓ Compiled in 492ms (1548 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 275ms
+ ✓ Compiled in 640ms (1548 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 225ms
+ ✓ Compiled in 567ms (1548 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 188ms
+ ✓ Compiled in 403ms (1548 modules)
+ GET /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 197ms
+ POST /app?folder=4950b86e-8ecc-4384-9432-236320248964 200 in 2007ms
+ GET /app?view=all 200 in 833ms
+ GET /app?view=all 200 in 738ms
+ POST /app?view=all 200 in 1313ms
+ GET /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 827ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 799ms
+ GET /app?folder=6f4173b4-d779-4324-96fc-ce08a1e86206 200 in 704ms
+ GET /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 821ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 713ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 699ms
+ ✓ Compiled /app/assets in 472ms (978 modules)
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 1635ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 1607ms
+ GET /app 200 in 833ms
+ ⨯ ./src/features/documents/folder-actions-menu.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from D:\Workspace\Projects\project_documents_hmt\src\features\documents\folder-actions-menu.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./src/features/documents/folder-actions-menu.tsx
+./src/features/documents/folder-tree.tsx
+ ✓ Compiled in 1253ms (1550 modules)
+ GET /app 200 in 333ms
+ ⨯ ./src/features/documents/folder-tree.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from D:\Workspace\Projects\project_documents_hmt\src\features\documents\folder-tree.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./src/features/documents/folder-tree.tsx
+./src/app/app/page.tsx
+ GET /app 500 in 33ms
+ GET /app 500 in 34ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 1642ms (1550 modules)
+ GET /app 200 in 2607ms
+ GET /app 200 in 1034ms
+ POST /app 200 in 1689ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 815ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 878ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 750ms
+ ✓ Compiled /app/assets in 418ms (979 modules)
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 1278ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 1348ms
+[image-audit:save] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 0, sources: 0 } { imageNodes: 2, paths: 0, sources: 0 }
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 0, sources: 0 }
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1353ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 0, sources: 0 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 944ms
+ GET /app 200 in 798ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 0, sources: 0 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 825ms
+ GET /app 200 in 812ms
+[image-audit:open] 62d9e692-ac5e-4087-8a78-d6bc2fbb768f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/62d9e692-ac5e-4087-8a78-d6bc2fbb768f 200 in 616ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F62d9e692-ac5e-4087-8a78-d6bc2fbb768f%2F9bd0c1dc-81a3-4c57-9151-7f89c787bb1b.jpg 200 in 1516ms
+ GET /app 200 in 830ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 0, sources: 0 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 582ms
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 986ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 514ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 596ms
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 950ms
+[image-audit:save] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 } { imageNodes: 2, paths: 2, sources: 2 }
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1256ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 661ms
+ GET /app 200 in 747ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 540ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 517ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1051ms (1561 modules)
+ GET / 200 in 1349ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 167ms
+ GET /app 200 in 1023ms
+ GET /app 200 in 1294ms
+ ✓ Compiled in 957ms (1555 modules)
+ GET / 200 in 486ms
+ GET /app 200 in 499ms
+ ✓ Compiled in 699ms (1555 modules)
+ GET / 200 in 300ms
+ GET /app 200 in 314ms
+ ✓ Compiled in 573ms (1555 modules)
+ GET / 200 in 100ms
+ GET /app 200 in 189ms
+ GET /app 200 in 1140ms
+ ✓ Compiled in 885ms (1557 modules)
+ GET / 200 in 243ms
+ GET /app 200 in 247ms
+ GET /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 1411ms
+ POST /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 1686ms
+ GET /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 714ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 1045ms
+ GET /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 847ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 865ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 694ms
+ ✓ Compiled in 1092ms (1557 modules)
+ GET / 200 in 279ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 285ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 1828ms
+ ✓ Compiled in 765ms (1557 modules)
+ GET / 200 in 219ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 230ms
+ ✓ Compiled in 698ms (1557 modules)
+ GET / 200 in 200ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 210ms
+ ✓ Compiled in 764ms (1557 modules)
+ GET / 200 in 195ms
+ GET /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 200 in 202ms
+[image-audit:open] ff86a4bc-85f3-4577-b484-457f8c7eb889 { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/ff86a4bc-85f3-4577-b484-457f8c7eb889 200 in 708ms
+ POST /app?folder=04af6332-8ce5-4238-ad42-1a5e7f73af87 303 in 2089ms
+[image-audit:open] e15f043c-df34-46e9-a55b-674c04b541b0 { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/e15f043c-df34-46e9-a55b-674c04b541b0 200 in 867ms
+ POST /app/doc/ff86a4bc-85f3-4577-b484-457f8c7eb889 303 in 2169ms
+ GET /app 200 in 764ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 1110ms
+[image-audit:open] 79951800-6cc3-4477-a45c-71f47b564737 { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/79951800-6cc3-4477-a45c-71f47b564737 200 in 636ms
+ POST /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 303 in 1787ms
+ GET /app 200 in 773ms
+ GET /app 200 in 1150ms
+ POST /app 200 in 1577ms
+ POST /app 200 in 1770ms
+ ✓ Compiled in 832ms (1557 modules)
+ GET / 200 in 315ms
+ GET /app 200 in 338ms
+ ✓ Compiled in 410ms (1557 modules)
+ GET / 200 in 87ms
+ GET /app 200 in 236ms
+ GET /app 200 in 1289ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 832ms
+ POST /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 1632ms
+ ✓ Compiled in 326ms (578 modules)
+ GET / 200 in 43ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 142ms
+ ✓ Compiled in 627ms (1557 modules)
+ GET / 200 in 52ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 230ms
+ ✓ Compiled in 413ms (1559 modules)
+ GET / 200 in 50ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 225ms
+ ✓ Compiled in 643ms (1560 modules)
+ GET / 200 in 85ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 158ms
+ ✓ Compiled in 740ms (1560 modules)
+ GET / 200 in 146ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 485ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 897ms
+ ○ Compiling /app/assets ...
+ ✓ Compiled /app/assets in 598ms (987 modules)
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 1495ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 1561ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1253ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ GET /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 609ms
+ ○ Compiling /share/[token] ...
+ ✓ Compiled /share/[token] in 1277ms (1557 modules)
+ GET /share/jxJwlOkN-_xDjX4vmFkkhBm2A4mQY6QAaZL-HxEf9u8 200 in 3153ms
+ ○ Compiling /share/[token]/asset ...
+ ✓ Compiled /share/[token]/asset in 826ms (1559 modules)
+ GET /share/jxJwlOkN-_xDjX4vmFkkhBm2A4mQY6QAaZL-HxEf9u8/asset?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2F1c0f8df2-798e-43d1-95a2-ff38c0331267.jpg 200 in 2980ms
+ GET /share/jxJwlOkN-_xDjX4vmFkkhBm2A4mQY6QAaZL-HxEf9u8/asset?path=f6c94813-db68-4bc5-bdf5-551026d15296%2F7bd32949-8977-40e6-afeb-bfef5f144daa%2Fd5c419c7-e666-4795-a1d6-a00fe3117abd.jpg 200 in 3048ms
+[image-audit:open] 7bd32949-8977-40e6-afeb-bfef5f144daa { imageNodes: 2, paths: 2, sources: 2 }
+ POST /app/doc/7bd32949-8977-40e6-afeb-bfef5f144daa 200 in 1315ms
+ GET /share/jxJwlOkN-_xDjX4vmFkkhBm2A4mQY6QAaZL-HxEf9u8 404 in 435ms
+ GET /app 200 in 927ms
+ POST /app 200 in 1754ms
+ POST /app 200 in 2102ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 1083ms
+[image-audit:open] 5b7f220d-d94a-4c97-97c2-1313af5172d7 { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/5b7f220d-d94a-4c97-97c2-1313af5172d7 200 in 669ms
+ POST /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 303 in 1680ms
+[image-audit:save] 5b7f220d-d94a-4c97-97c2-1313af5172d7 { imageNodes: 0, paths: 0, sources: 0 } { imageNodes: 0, paths: 0, sources: 0 }
+[image-audit:open] 5b7f220d-d94a-4c97-97c2-1313af5172d7 { imageNodes: 0, paths: 0, sources: 0 }
+ POST /app/doc/5b7f220d-d94a-4c97-97c2-1313af5172d7 200 in 1172ms
+[image-audit:open] 5b7f220d-d94a-4c97-97c2-1313af5172d7 { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/5b7f220d-d94a-4c97-97c2-1313af5172d7 200 in 628ms
+ GET /app 200 in 774ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 736ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 861ms
+ ✓ Compiled in 921ms (1565 modules)
+ GET / 200 in 363ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 378ms
+ ✓ Compiled in 464ms (1565 modules)
+ GET / 200 in 231ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 242ms
+ ✓ Compiled in 659ms (1565 modules)
+ GET / 200 in 187ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 195ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 1401ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f?edit=1 200 in 936ms
+ POST /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 303 in 1941ms
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 } { imageNodes: 0, paths: 0, sources: 0 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f?edit=1 200 in 1251ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f?edit=1 200 in 643ms
+ GET /app 200 in 781ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 713ms
+ GET /app 200 in 779ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 832ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 928ms
+ GET /app 200 in 793ms
+ ✓ Compiled in 355ms (580 modules)
+ GET / 200 in 48ms
+ GET /app 200 in 182ms
+ ✓ Compiled in 900ms (1565 modules)
+ GET / 200 in 253ms
+ GET /app 200 in 271ms
+ ✓ Compiled in 206ms (580 modules)
+ GET / 200 in 146ms
+ GET /app 200 in 168ms
+ ✓ Compiled in 310ms (580 modules)
+ GET / 200 in 140ms
+ GET /app 200 in 163ms
+ GET /app 200 in 1580ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 857ms
+ GET /app?folder=67ea6ea9-8afd-4b34-96b7-dc3e75f32897 200 in 876ms
+ GET /app?folder=93f2d745-f376-4b76-b39b-7aae141c442d 200 in 854ms
+ GET /app?folder=71b74f0c-5086-4443-bf37-6ce0bf58af65 200 in 745ms
+ GET /app?view=all 200 in 876ms
+ ✓ Compiled in 904ms (1565 modules)
+ ✓ Compiled in 301ms (580 modules)
+ GET / 200 in 104ms
+ GET / 200 in 41ms
+ GET /app?view=all 200 in 1074ms
+ GET /app?view=all 200 in 965ms
+ GET /app?view=all 200 in 1744ms
+ ✓ Compiled in 303ms (580 modules)
+ GET / 200 in 150ms
+ GET /app?view=all 200 in 169ms
+ ✓ Compiled in 744ms (1565 modules)
+ GET / 200 in 87ms
+ GET /app?view=all 200 in 173ms
+ ✓ Compiled in 668ms (1565 modules)
+ GET / 200 in 85ms
+ GET /app?view=all 200 in 177ms
+ ✓ Compiled in 408ms (1565 modules)
+ GET / 200 in 51ms
+ GET /app?view=all 200 in 234ms
+ ✓ Compiled in 462ms (1565 modules)
+ GET / 200 in 81ms
+ GET /app?view=all 200 in 167ms
+ ✓ Compiled in 422ms (1565 modules)
+ GET /app?view=all 200 in 211ms
+ GET / 200 in 45ms
+ ✓ Compiled in 197ms (580 modules)
+ GET /app?view=all 200 in 122ms
+ GET / 200 in 38ms
+ ✓ Compiled in 184ms (580 modules)
+ GET / 200 in 43ms
+ GET /app?view=all 200 in 121ms
+ ✓ Compiled in 1715ms (1565 modules)
+ GET / 200 in 308ms
+ GET /app?view=all 200 in 335ms
+ ✓ Compiled in 470ms (1565 modules)
+ GET / 200 in 89ms
+ GET /app?view=all 200 in 246ms
+ ✓ Compiled in 244ms (580 modules)
+ GET / 200 in 121ms
+ GET /app?view=all 200 in 161ms
+ GET /app?view=all 200 in 1289ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 898ms
+ ○ Compiling /app/assets ...
+ ✓ Compiled /app/assets in 627ms (991 modules)
+ GET / 200 in 93ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 127ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2Fc29e36f9-ec12-4a2d-a623-477f65eaad5f%2F7b0ca2cc-dd58-402c-b6c5-8b077626a37b.webp 200 in 2772ms
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 } { imageNodes: 1, paths: 1, sources: 1 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1819ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 967ms
+ GET /app 200 in 830ms
+ GET /app?view=all 200 in 893ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 635ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 2571ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 581ms
+ GET /share/xvwd2UsmKDPB5o07NFmyR2t9DwNPGF_INSx265Jaee4 200 in 484ms
+ ○ Compiling /share/[token]/asset ...
+ ✓ Compiled /share/[token]/asset in 812ms (993 modules)
+ GET /share/xvwd2UsmKDPB5o07NFmyR2t9DwNPGF_INSx265Jaee4 200 in 215ms
+ GET / 200 in 62ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 226ms
+ GET /share/xvwd2UsmKDPB5o07NFmyR2t9DwNPGF_INSx265Jaee4/asset?path=f6c94813-db68-4bc5-bdf5-551026d15296%2Fc29e36f9-ec12-4a2d-a623-477f65eaad5f%2Fabf2e97a8213fcf34231d26313b75281de05441d0f5032edd7c6c4c89f0c786e%2F7b0ca2cc-dd58-402c-b6c5-8b077626a37b.webp 200 in 2952ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 2650ms
+ GET /share/xvwd2UsmKDPB5o07NFmyR2t9DwNPGF_INSx265Jaee4 404 in 491ms
+ GET /app 200 in 1210ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1701ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2Fc29e36f9-ec12-4a2d-a623-477f65eaad5f%2F7b0ca2cc-dd58-402c-b6c5-8b077626a37b.webp 200 in 775ms
+ ✓ Compiled in 3.5s (1565 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET / 200 in 465ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 466ms
+ ✓ Compiled in 876ms (1571 modules)
+ GET / 200 in 203ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 394ms
+ ✓ Compiled in 1722ms (1571 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET / 200 in 274ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 275ms
+ ✓ Compiled in 2s (1571 modules)
+ GET / 200 in 117ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 265ms
+ ✓ Compiled in 2.8s (1575 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET / 200 in 401ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 402ms
+ ✓ Compiled in 665ms (1575 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET / 200 in 389ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 392ms
+ ✓ Compiled in 767ms (1575 modules)
+ GET / 200 in 144ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 217ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 1476ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 685ms
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 } { imageNodes: 1, paths: 0, sources: 0 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1507ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 706ms
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1020ms
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 } { imageNodes: 1, paths: 1, sources: 1 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1384ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 675ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 806ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 537ms
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 } { imageNodes: 1, paths: 0, sources: 0 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1569ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 703ms
+ ✓ Compiled in 1932ms (1575 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ GET / 200 in 379ms
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 380ms
+ ✓ Compiled in 1791ms (1575 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 220ms
+ GET / 200 in 65ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1810ms
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 786ms
+ ○ Compiling /app/assets ...
+ ✓ Compiled /app/assets in 1489ms (996 modules)
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 0, sources: 0 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 268ms
+ GET / 200 in 281ms
+ GET /app/assets?path=f6c94813-db68-4bc5-bdf5-551026d15296%2Fc29e36f9-ec12-4a2d-a623-477f65eaad5f%2F7b0ca2cc-dd58-402c-b6c5-8b077626a37b.webp 200 in 2783ms
+[image-audit:incoming] c29e36f9-ec12-4a2d-a623-477f65eaad5f {
+  submitted: { imageNodes: 1, paths: 0, sources: 0 },
+  existing: { imageNodes: 1, paths: 0, sources: 0 }
+}
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 } { imageNodes: 1, paths: 1, sources: 1 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1377ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 921ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 772ms
+[image-audit:open] 5b7f220d-d94a-4c97-97c2-1313af5172d7 { imageNodes: 0, paths: 0, sources: 0 }
+ GET /app/doc/5b7f220d-d94a-4c97-97c2-1313af5172d7 200 in 556ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 1063ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 609ms
+[image-audit:incoming] c29e36f9-ec12-4a2d-a623-477f65eaad5f {
+  submitted: { imageNodes: 1, paths: 0, sources: 0 },
+  existing: { imageNodes: 1, paths: 1, sources: 1 }
+}
+[image-audit:save] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 } { imageNodes: 1, paths: 1, sources: 1 }
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ POST /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 1780ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 918ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 790ms
+[image-audit:open] c29e36f9-ec12-4a2d-a623-477f65eaad5f { imageNodes: 1, paths: 1, sources: 1 }
+ GET /app/doc/c29e36f9-ec12-4a2d-a623-477f65eaad5f 200 in 575ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 788ms
+ ✓ Compiled in 2s (1575 modules)
+ GET / 200 in 422ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 440ms
+ ✓ Compiled in 844ms (1575 modules)
+ GET / 200 in 147ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 192ms
+ ✓ Compiled in 1572ms (1575 modules)
+ GET / 200 in 261ms
+ GET /app?folder=d394959c-7eb4-4585-8215-f01b930d3a90 200 in 272ms
+ ✓ Compiled in 4.1s (1581 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 2.6s (1586 modules)
+ GET / 404 in 2931ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'D:\Workspace\Projects\project_documents_hmt\.next\server\app\app\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Workspace\\Projects\\project_documents_hmt\\.next\\server\\app\\app\\page.js',
+  page: '/app'
+}
+ ⨯ [Error: Cannot find module 'D:\Workspace\Projects\project_documents_hmt\.next\server\pages\_document.js'
+Require stack:
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\require.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\load-components.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\utils.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\options.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\index.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\next.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\lib\start-server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[Error: ENOENT: no such file or directory, open 'D:\Workspace\Projects\project_documents_hmt\.next\server\app\app\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Workspace\\Projects\\project_documents_hmt\\.next\\server\\app\\app\\page.js',
+  page: '/app'
+}
+ ⨯ [Error: Cannot find module 'D:\Workspace\Projects\project_documents_hmt\.next\server\pages\_document.js'
+Require stack:
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\require.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\load-components.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\utils.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\options.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\index.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\next.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\lib\start-server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ GET /app 500 in 165ms
+ GET /app 500 in 43ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'D:\Workspace\Projects\project_documents_hmt\.next\server\app\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Workspace\\Projects\\project_documents_hmt\\.next\\server\\app\\page.js',
+  page: '/'
+}
+ ⨯ [Error: Cannot find module 'D:\Workspace\Projects\project_documents_hmt\.next\server\pages\_document.js'
+Require stack:
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\require.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\load-components.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\utils.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\options.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\index.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\next.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\lib\start-server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[Error: ENOENT: no such file or directory, open 'D:\Workspace\Projects\project_documents_hmt\.next\server\app\page.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Workspace\\Projects\\project_documents_hmt\\.next\\server\\app\\page.js',
+  page: '/'
+}
+ ⨯ [Error: Cannot find module 'D:\Workspace\Projects\project_documents_hmt\.next\server\pages\_document.js'
+Require stack:
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\require.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\load-components.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\utils.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\options.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\swc\index.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\config.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\next.js
+- D:\Workspace\Projects\project_documents_hmt\node_modules\next\dist\server\lib\start-server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ GET / 500 in 148ms
+ GET / 500 in 45ms
+ GET / 404 in 40ms
+ GET / 404 in 35ms
+ GET / 404 in 28ms
+ GET / 404 in 23ms
+ GET / 404 in 23ms
+ GET / 404 in 24ms
+ GET / 404 in 27ms
+ GET / 404 in 19ms
